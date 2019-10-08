@@ -1,0 +1,20 @@
+.carousel-control-prev,
+.carousel-control-next {
+ background-color: black;
+}
+
+.carousel-indicators .active{
+    background-color: #f00;
+}
+
+.carousel-img {
+    max-height: 256px;
+    max-width: 256px;
+}
+.card-img {
+    max-height: 128px;
+    max-width: 128px;
+}
+#appointment {
+    text-align: center;
+}
